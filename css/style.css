@@ -1,4 +1,4 @@
-*{ 
+* {
     margin: 0;
     padding: 0;
 }
@@ -12,22 +12,65 @@
     padding: 20px;
     margin: 50px 140px 50px 100px;
     border-radius: 15px;
-    }
+}
 
 .happy-text {
-color: white;
-font-size: 32px;
-text-align: center;
-padding-top: 177px;
-font-family: Merriweather;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 177px;
+    font-family: Merriweather;
 
 }
+
 .party-text {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
     font-size: 72px;
     line-height: 95px;
-    padding-top: 35px;
+    padding-top: 30px;
 
 }
+
+.off-section {
+    background: #FFF;
+    margin: 50px 398px;
+   
+
+
+}
+
+.off-section .off-image {
+    width: 802px;
+    
+}
+
+.discound {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 45px;
+
+}
+.deals {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.catagory {
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+}
+
+
