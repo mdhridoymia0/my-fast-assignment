@@ -134,7 +134,7 @@
 
 }
 
-#join-button {
+.join-button {
     color: red;
     text-align: center;
     font-family: Inter;
@@ -222,25 +222,46 @@
 }
 
 .mail-image {
-   padding: 80px 585px 0px 585px;
+    padding: 80px 585px 0px 585px;
 }
-#subscribe-bold{
+
+#subscribe-bold {
     color: #070211;
-text-align: center;
-font-family: Merriweather;
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
-padding-top: 30px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 30px;
 }
 
 #subscribe-paragraph {
     color: rgba(7, 2, 17, 0.60);
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px; 
-padding-bottom: 48px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 48px;
 }
 
+.w {
+   padding-left: 336px;
+    height: 60px;
+    width: 400px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+}
+
+
+
+
+/* footer section */
+footer {
+    margin: 0;
+    background: #070211;
+    width: 1600px;
+height: 609px;
+}
