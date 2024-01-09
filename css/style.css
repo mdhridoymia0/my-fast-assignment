@@ -285,10 +285,39 @@ footer {
 
 }
 
-.footer-adress {
+
+.contact-text {
     color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-weight: 500;
-    line-height: 40px;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px;
+}
+.icon-image{
+    width: 24px;
+height: 24px;
+}
+
+#footer-contact {
+    display: flex;
+    justify-content: space-between;
+padding-right: 400px;
+
+
+}
+
+.footer-line {
+    width: 1320px;
+height: 1px;
+
+}
+#footer-image-box {
+    display: flex;
+    
+}
+.footer-image-box{
+    width: 64px;
+height: 64px;
+
 }
